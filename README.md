@@ -3,7 +3,7 @@
 
 
 
->This web application focuses on your communication skills.The only web feature nowadays that Gmeet, Microsoft Teams, Zoom or any other web video conferencing app don't have
+>This web application focuses on your communication skills. The only web feature that Gmeet, Microsoft Teams, Zoom or any other web video conferencing app don't have
 >is that at the end of the meeting they don't tell you your grammatical proficiency. Our app first converts your speech during meeting real-time into text and then process it
 >and shows you your grammatical errors. This app also capture your picture after a fixed interval and gives you your facial expression score like during meeting whether you are
 >sad,happy or angry.</b>
@@ -51,12 +51,6 @@ Database: <b>`Mongo DB`</b>
 <br>
 
 ## Future plans
-- <b>`Authentication`</b>
-  - Log In
-  - Sign Up
-- <b>`User Profile`</b>
-- <b>`Search Notes using title`</b>
-- <b>`Note`</b>
-  - Create Note
-  - Edit Note
-  - Delete Note
+Right now we are using textgears api for checking grammatical errors and an image classification model from hugging face for facial analysis. 
+We are planning to create a feedback based on analysis done for user to understand their shortcomings. Incrasing the accuracy of the ML and NLP models with larger sample set and get rewarded for your consistency, unlock exciting NFTs by performing well on analysis benchmarks.
+  
