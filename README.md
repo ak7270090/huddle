@@ -3,10 +3,7 @@
 
 
 
->This web application focuses on your communication skills. The only web feature that Gmeet, Microsoft Teams, Zoom or any other web video conferencing app don't have
->is that at the end of the meeting they don't tell you your grammatical proficiency. Our app first converts your speech during meeting real-time into text and then process it
->and shows you your grammatical errors. This app also capture your picture after a fixed interval and gives you your facial expression score like during meeting whether you are
->sad,happy or angry.</b>
+>This web application focuses on your communication skills. The only web feature that Gmeet, Microsoft Teams, Zoom, or any other web video conferencing app doesn’t have is that at the end of the meeting, they don’t tell you about your grammatical proficiency. Our app first converts your speech during the meeting in real-time into text, then processes it, and shows you about your grammatical errors. This app also captures your picture at fixed intervals and gives you a score for your facial expressions, like whether you were sad, happy, or angry during the meeting.</b>
 
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
