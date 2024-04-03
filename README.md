@@ -48,6 +48,5 @@ Database: <b>`Mongo DB`</b>
 <br>
 
 ## Future plans
-Right now we are using textgears api for checking grammatical errors and an image classification model from hugging face for facial analysis. 
-We are planning to create a feedback based on analysis done for user to understand their shortcomings. Incrasing the accuracy of the ML and NLP models with larger sample set and get rewarded for your consistency, unlock exciting NFTs by performing well on analysis benchmarks.
+Right now the web application is using the Textgears API for checking grammatical errors and an image classification model from Hugging Face for facial analysis. I am planning to use cloud-based services like Google Speech-to-Text and a grammatical tool for more accuracy. Also, I plan to store user progress in a database so that they can check their performance from time to time.
   
